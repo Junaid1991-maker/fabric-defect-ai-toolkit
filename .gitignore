@@ -1,0 +1,17 @@
+Python virtual environment
+
+venv/
+venv311/
+
+Large model files
+
+*.h5
+*.keras
+
+Data folders (DO NOT push raw data to GitHub)
+
+defect_data/train/
+
+Generated outputs (optional, but keeps repo clean)
+
+generated_defects/
